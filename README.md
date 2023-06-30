@@ -8,7 +8,7 @@
 [Elementum] è un modulo Drupal che gestisce l'entità Dataset.
 L'architettura dei campi è basata sulla [v2.0](https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=1529184526)
 dell'architettura dell'informazione dei siti web dei comuni,
-il content type che importa questo modulo è il [CT Dataset](https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=238733735)
+il content type che importa questo modulo è il [CT Dataset](https://docs.google.com/spreadsheets/d/1D4KbaA__xO9x_iBm08KvZASjrrFLYLKX/edit#gid=765739077)
 
 ## Requisiti
 - Drupal: >= 10
